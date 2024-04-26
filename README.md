@@ -2,12 +2,12 @@
 Área logada backend em Node.JS usando Express, mongoDB(Mongoose), Bcrypt e Json Web Token
 
 
-//Preparando o ambiente
+#Preparando o ambiente
 
 - npm init (para iniciar o ambiente node)
 - npm install (para instalar os repositórios)
 
-//Conectando - se ao banco de dados MongoDB
+#Conectando - se ao banco de dados MongoDB
 - Acesse o site do MongoDB, crie uma conta ou se logue, crie um banco de dados e um usuário e senha para acessar - lo.
 - crie um arquivo .env na pasta do projeto com os seguintes comandos:
   
