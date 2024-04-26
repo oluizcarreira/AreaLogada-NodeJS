@@ -12,6 +12,9 @@
 - crie um arquivo .env na pasta do projeto com os seguintes comandos:
   
   MONGODB_USERNAME=(nome de usuário do BD)
+  
   MONGODB_PASSWORD=(senha do BD)
+  
   //Caractere para a utilização do TOKEN(pode ser alterado como desejar)
+  
   SECRET=JFGKSdhfsdgjsajkdsHIEU9W8W80839397@$%$%%JDJGFkkklkkljdkhaj88448
