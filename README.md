@@ -4,7 +4,6 @@
 
 ##Preparando o ambiente
 
-- npm init (para iniciar o ambiente node)
 - npm install (para instalar os repositórios)
 
 ##Conectando - se ao banco de dados MongoDB
@@ -13,7 +12,7 @@
   
   MONGODB_USERNAME=(nome de usuário do BD)
   
-  MONGODB_PASSWORD=(senha do BD)
+  MONGODB_PASSWORD=(senha do BD) //Não usar caracteres especiais
   
   //Caractere para a utilização do TOKEN(pode ser alterado como desejar)
   
