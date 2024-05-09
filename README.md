@@ -14,6 +14,6 @@
   
   MONGODB_PASSWORD=(senha do BD) //Não usar caracteres especiais
   
-  //Caractere para a utilização do TOKEN(pode ser alterado como desejar)
+  //Caractere para a utilização do TOKEN (pode ser alterado como desejar)
   
   SECRET=JFGKSdhfsdgjsajkdsHIEU9W8W80839397@$%$%%JDJGFkkklkkljdkhaj88448
